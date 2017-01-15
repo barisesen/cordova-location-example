@@ -7,3 +7,4 @@
   $ cordova run browser
   $ cordova build android
 ```
+Cordova lokasyon plugini kullanımı : [barisesen.com](https://barisesen.com/cordova-lokasyon-plugini)
